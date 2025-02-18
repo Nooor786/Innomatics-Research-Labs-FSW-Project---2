@@ -1,4 +1,4 @@
-# Project 2: Build and Enhance Memory Match Game
+# ... Project 2: Build and Enhance Memory Match Game
 # Memory Game
 
 ## 🎮 About the Game
