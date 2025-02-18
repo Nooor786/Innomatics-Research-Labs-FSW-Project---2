@@ -1,5 +1,5 @@
-# ... Project 2:  🧠 Memory Match Game 🎮
-# Memory Game
+#   🧠 Memory Match Game 🎮
+
 
 ## 🎮 About the Game
 A fun and interactive memory card game where players can choose from multiple categories (Fruits, Emojis, Animals, Planets, Flags) and match pairs before time runs out. 
