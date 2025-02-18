@@ -5,4 +5,4 @@
 ![img-3](Project-2/output-3.png)
 
 
-[You can Download Video from here](Project-2/otput_video.mov)
+[You can Download Output Video from here](Project-2/otput_video.mov)
